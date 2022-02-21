@@ -1,0 +1,10 @@
+[
+  {
+    "device_type": "vyos_ssh",
+    "ip": "10.66.66.66"
+  },
+  {
+    "device_type": "vyos_ssh",
+    "ip": "10.66.66.67"
+  }
+]
